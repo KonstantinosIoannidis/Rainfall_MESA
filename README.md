@@ -1,6 +1,6 @@
 ## Description
 
-This depository includes the data and the Matlab code used in Ioannidis K., Karagrigoriou A. & Lekkas D.F. (2015). [Analysis and Modeling of Rainfall Events](http://nonlinearstudies.com/index.php/mesa/article/view/1237). *Mathematics in Engineering, Science and Aerospace*, 6(4):607-614
+This repository includes the data and the Matlab code used in Ioannidis K., Karagrigoriou A. & Lekkas D.F. (2015). [Analysis and Modeling of Rainfall Events](http://nonlinearstudies.com/index.php/mesa/article/view/1237). *Mathematics in Engineering, Science and Aerospace*, 6(4):607-614
 
 ### Abstract
 
